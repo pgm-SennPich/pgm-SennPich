@@ -5,3 +5,6 @@ I have allot of fun programming and consider my self a fast program that's also 
 
 ## availabillity
 I am usually available between 9:00 and 22:00 belgium time. 
+
+## coding languages
+I can code in c#, html, css, javascript and typescript
